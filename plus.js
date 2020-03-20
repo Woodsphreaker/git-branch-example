@@ -1,1 +1,3 @@
-const sum = (a, b) => a * b
+const plus = (a, b) => a * b
+
+export default plus
