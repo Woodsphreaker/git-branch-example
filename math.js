@@ -1,0 +1,1 @@
+const math = (a) => Math.round(a)
